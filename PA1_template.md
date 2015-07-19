@@ -1,12 +1,6 @@
 #Reproducible Research Course Assignment:
 #Peer Assessment1
 
----
-title: "PA1_template"
-output: 
-  html_document: 
-    keep_md: true
----
 
 ##Loading and preprocessing the data
 
